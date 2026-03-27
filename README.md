@@ -56,44 +56,22 @@ BELATRACHE ISHAK is a computer science student and passionate developer who enjo
   <img src="https://skillicons.dev/icons?i=tor" height="40"/>
   <img src="https://skillicons.dev/icons?i=portfolio" height="40"/>
 </p>
----
-
-# 📊 GitHub Stats:
-<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=isaacbel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=isaacbel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-
----
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacbel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=isaacbel&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-![](https://github-profile-trophy.vercel.app/?username=isaacbel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=isaacbel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✍️ Random Dev Quote
-<p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-![](https://github-contributor-stats.vercel.app/api?username=isaacbel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
-
----
+## 🔝 Top Contributed Repo
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=isaacbel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacbel&color=22F7A3&style=flat" />
-</p>
-
----
+![Profile Views](https://visitcount.itsvg.in/api?id=isaacbel&icon=0&color=0)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isaacbel&theme=tokyonight&hide_border=true&bg_color=00000000)
 

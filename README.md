@@ -28,4 +28,4 @@ BELATRACHE ISHAK is a computer science student and passionate developer who enjo
 
 
 
-https://github-readme-activity-graph.vercel.app/graph?username=isaacbel&theme=tokyonight&hide_border=true&bg_color=00000000
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isaacbel&theme=tokyonight&hide_border=true&bg_color=00000000)

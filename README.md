@@ -57,6 +57,7 @@ BELATRACHE ISHAK is a computer science student and passionate developer who enjo
   <img src="https://img.shields.io/badge/TOR-7E4798?style=for-the-badge&logo=tor-project&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" height="40"/>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isaacbel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=isaacbel&theme=dark&hide_border=false)<br/>

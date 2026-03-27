@@ -1,10 +1,7 @@
 # 💫 About Me:
 BELATRACHE ISHAK is a computer science student and passionate developer who enjoys building modern, efficient applications that solve real-world problems. He is driven by curiosity, continuous learning, and the challenge of turning ideas into clean, scalable digital solutions.
-# Hi, I'm Isaac Bel 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacbel&color=22F7A3&style=flat" />
-</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaaac.be) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BELATRACHE ISHAK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mi_belatrache@esi.dz) 

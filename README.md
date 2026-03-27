@@ -1,4 +1,4 @@
-[27/03/2026 12:04] isaac🦉✌🏻🧬: # 💫 About Me:
+# 💫 About Me:
 BELATRACHE ISHAK is a computer science student and passionate developer who enjoys building modern, efficient applications that solve real-world problems. He is driven by curiosity, continuous learning, and the challenge of turning ideas into clean, scalable digital solutions.
 
 

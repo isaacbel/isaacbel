@@ -25,3 +25,7 @@ BELATRACHE ISHAK is a computer science student and passionate developer who enjo
 [![](https://visitcount.itsvg.in/api?id=isaacbel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+https://github-readme-activity-graph.vercel.app/graph?username=isaacbel-z1&theme=tokyonight&hide_border=true&bg_color=00000000

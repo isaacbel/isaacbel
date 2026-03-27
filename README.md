@@ -63,6 +63,10 @@ BELATRACHE ISHAK is a computer science student and passionate developer who enjo
 ![](https://nirzak-streak-stats.vercel.app/?user=isaacbel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isaacbel&theme=tokyonight&hide_border=true&bg_color=00000000)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isaacbel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -78,5 +82,3 @@ BELATRACHE ISHAK is a computer science student and passionate developer who enjo
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isaacbel&theme=tokyonight&hide_border=true&bg_color=00000000)
